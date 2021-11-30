@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/Bubble-Crush"
+baseurl: ""
 url: "https://captainmushroom.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
